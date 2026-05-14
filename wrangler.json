@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "locloi",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "f0e2c9ff-5dc2-4738-b682-17fecbba5a5d",
+			"database_name": "loclo"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
